@@ -51,8 +51,8 @@
 	</build>
 
 	<scm>
-		<developerConnection>scm:git:git@github.com:clara-lan/spring-petclinic.git</developerConnection>
-	  <tag>spring-petclinic-0.0.1</tag>
+		<developerConnection>scm:git:https://github.com/clara-lan/spring-petclinic.git</developerConnection>
+		<tag>HEAD</tag>
   </scm>
 
 </project>
